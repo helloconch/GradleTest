@@ -10,6 +10,7 @@ android {
         targetSdkVersion 24
         versionCode 1
         versionName "1.0"
+        buildConfigField('String','TEST_SERVER_URL','"http://localhost:8080/app"')
     }
     buildTypes {
         release {
