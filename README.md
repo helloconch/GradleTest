@@ -1,4 +1,5 @@
 # GradleTest
+[反编译与混淆技术完全解析](http://blog.csdn.net/sinyu890807/article/details/50451259)
 ##基本配置
 ###app/build
 ```
